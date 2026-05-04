@@ -138,8 +138,8 @@ Traffic_Monitoring_System/
 ## Citation
 If you use this project, please cite:
 ```
-TIP Manila — BS Computer Science Thesis 2025
+TIP Manila — BS Computer Science Thesis 2025-2026
 MMDA Traffic Intelligence System
-Authors: [Stephen John A. Zaraspe]
+Authors: [Stephen John A. Zaraspe, Lee Arvy Tesorero, Lyniel Maniczic, Sean Roger Gacela]
 ```
 EOF
