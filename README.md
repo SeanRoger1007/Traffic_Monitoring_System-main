@@ -9,13 +9,21 @@ from CCTV footage or live webcam using a custom-trained YOLOv8s model and OC-SOR
 
 ## 🎬 System Demo
 
-<p align="center">
-  <img src="Demo/Traffic_Demo_Image.jpg" alt="MMDA Dashboard Preview" width="70%">
-</p>
-
-<p align="center">
-  <a href="Demo/Traffic_Demo_Video.mp4">▶️ Watch Demo Video (Traffic_Demo_Video.mp4)</a>
-</p>
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <b>Dashboard Photo</b><br><br>
+      <img src="Demo/Traffic_Demo_Image.jpg" alt="System Preview" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <b>Live Tracking Preview</b><br><br>
+      <!-- If converted to GIF -->
+      <img src="Demo/Traffic_Demo_Video_Gif.gif" alt="System Video Preview" width="100%">
+      <!-- If keeping MP4 link -->
+      <!-- <a href="Demo/Traffic_Demo_Video.mp4">▶️ Watch MP4 Video</a> -->
+    </td>
+  </tr>
+</table>
 
 ---
 
