@@ -7,6 +7,10 @@ from CCTV footage or live webcam using a custom-trained YOLOv8s model and OC-SOR
 
 ---
 
+![MMDA System Preview](Demo/Traffic_Demo_Image.jpg)
+
+---
+
 ## Features
 - Upload CCTV video → GPU processes → annotated playback in browser
 - Live webcam mode with native OpenCV window + browser MJPEG stream
